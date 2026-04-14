@@ -179,3 +179,4 @@ When stock reaches the configured minimum, the system automatically fires an ema
 ---
 
 Built with Java + Spring Boot. Dockerized and production-ready.
+
